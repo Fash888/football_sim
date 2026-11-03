@@ -1,0 +1,32 @@
+# Build output
+build/
+bin/
+*.exe
+*.o
+*.obj
+*.d
+*.pdb
+*.ilk
+*.idb
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+# Transient simulation and testing outputs
+data/events.csv
+data/tracking.csv
+data/matches.csv
+data/players.csv
+data/test_*.csv
+data/events_cache/
+*.log
+
+# IDE & OS
+.vscode/
+.vs/
+.idea/
+.DS_Store
+Thumbs.db
