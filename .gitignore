@@ -8,6 +8,7 @@ bin/
 *.pdb
 *.ilk
 *.idb
+push_to_github.bat
 
 # CMake
 CMakeCache.txt
